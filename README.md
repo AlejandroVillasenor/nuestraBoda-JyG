@@ -7,4 +7,4 @@ Con sql se permite acceder a la tabla de registros mediante un login validado co
 
 La página se encuentra desplegada en Hostgator en el link: http://jygnuestraboda.site/
 
-Agradecimientos a todo el equipo de DevF por lo conocimientos compartidos en el curso de "Master en Coding".
+Agradecido a todo el equipo de DevF por lo conocimientos compartidos en el curso de "Master en Coding", fue una gran experiencia.
