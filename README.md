@@ -5,6 +5,4 @@ Esta es una página web en forma de RSVP que permite mostrar los datos de la cer
 
 Con sql se permite acceder a la tabla de registros mediante un login validado con PHP, considerando que todos los registros realizados serán mostrados en esa parte.
 
-La página se encuentra desplegada en Hostgator en el link: http://jygnuestraboda.site/
-
 Agradecido a todo el equipo de DevF por lo conocimientos compartidos en el curso de "Master en Coding", fue una gran experiencia.
